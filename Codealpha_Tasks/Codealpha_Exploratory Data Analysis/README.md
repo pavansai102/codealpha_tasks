@@ -144,7 +144,7 @@ The insights gained help understand how study habits and lifestyle factors influ
 
 
 
-👤 Author: Yogesh S
+👤 Author: Venkata saipavan G
 
 Aspiring Data Analyst
 
